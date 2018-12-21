@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISTEMA_TRAMITE_DOCUMENTARIO", "SISTEMA_TRAMITE_DOCUMENTARIO\SISTEMA_TRAMITE_DOCUMENTARIO.csproj", "{E132631B-ED79-4D32-9228-78DA28185A18}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SISTEMA DE TRAMITE DOCUMENTARIO1", "SISTEMA DE TRAMITE DOCUMENTARIO1\SISTEMA DE TRAMITE DOCUMENTARIO1.vdproj", "{38F03D6A-5FED-417D-9D05-49757086F14F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E132631B-ED79-4D32-9228-78DA28185A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E132631B-ED79-4D32-9228-78DA28185A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E132631B-ED79-4D32-9228-78DA28185A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E132631B-ED79-4D32-9228-78DA28185A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F03D6A-5FED-417D-9D05-49757086F14F}.Debug|Any CPU.ActiveCfg = Debug
+		{38F03D6A-5FED-417D-9D05-49757086F14F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
